@@ -1,0 +1,31 @@
+Preposition	من, الي, إلى, حتى, حىّى, على, عن, في, ربّ, مذ, منذ, خلا, عدا, حاشا
+Conjungtion	و, ثم, ثمّ, أو, أم, بل
+Negation Particles	لم, لما, لن, ما, لا, لات
+Answering Paerticles	نعم, بلى, إي, أجل, كلّا
+Explanation Particles	أي
+Conditional Particles	إن, إذما, لو, لولا, لوما, أمّا, لمّا
+unknown	هلّا, ألّا
+unknown	ألا, أما
+Verbal Noun Particles	أنّ, أن, كي
+Future Particles	سوف
+Emphasis Particles	إنّ, قد
+Interrogative Particles	هل
+Wishing Particles	ليت
+unknown	لعل, لعلّ
+Interjections	يا, أيا
+unknown	إنّا
+Exceptive Particle	إلّا
+unknown	إمّا
+unknown	كأنّما
+unknown	كما
+unknown	ربّما
+First Person Pronouns	أنا, نحن
+Second Person Pronouns	أنت, أنتما, أنتم, أنتن
+Third Person Pronouns	هو, هم, هن, هما
+Demonstritive Pronouns	هذا, ذلك, هذي, تلك, هذان, هاتان, هؤلاء, أولئك, هنا, هنالك, هذه
+Relative Pronouns	الذي, التي, اللذان, اللتان, الذين
+Nouns of Place	فوق, تحت, أمام, وراء, يمين, شمال, خلف, إثر
+Nouns of Time	حين, وقت, ساعة, يوم, شهر, سنة, عام, زمان, أوان, بكرة, ضحوة, ليلة, مساء, عشية, غدوة
+Nouns of Place or Time	دون, بين, وسط, عند, قبل, بعد
+Inna and its sisters	أن, إنّ, لكنّ, كأنّ, لعل, ليت
+Kaana and its sisters	كان, أمسى, أضحى, أصبح, ليس, بات, مالبث, مابرح, ماانفك
