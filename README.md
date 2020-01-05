@@ -1,2 +1,2 @@
-# Improving Arabic POS Tagging
- based on Journal: Improving Rule-Based Method for Arabic POS Tagging
+# Improving Rule-Based Method for Arabic POS Tagging Using HMM Technique
+A collaborative project with Muhammad Fajarudin that will be used in his Study of Literature course: "Perbaruan Metode Rule-Based untuk POS Tagging Teks Bahasa Arab Menggunakan Teknik HMM", which improve Arabic POS Tagging using HMM Technique. The methods used in this project are based on a journal by Meryeme Hadni, Said Alaoui Ouatik, Abdelmonaime Lachkar, and Mohammed Meknassi: "Improving Rule-Based Method for Arabic POS Tagging Using HMM Technique".
